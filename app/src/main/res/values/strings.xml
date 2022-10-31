@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3_SQLite</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="find">Find</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="product_id">Product ID</string>
+</resources>
